@@ -4,7 +4,7 @@
   "description": "A tweak of the @mui/material-ui v5 which minimic the characteristics of the Encore design system by Spotify.",
   "main": "build/index.js",
   "scripts": {
-    "build": "tsc --build",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
