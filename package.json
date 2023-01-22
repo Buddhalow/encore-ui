@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/Buddhalow/encore-ui.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Alexander Forselius <drsounds@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Buddhalow/encore-ui/issues"
   },
